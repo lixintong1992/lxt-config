@@ -6,6 +6,7 @@ set expandtab
 set autoindent
 set showcmd
 set mouse=a
+set incsearch
 
 "设置高亮行和列
 set cursorcolumn
